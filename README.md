@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I am Airaj Hussain</h1>
-<h4 align="center">A passionate 3rd Year Software Engineering Student with a Focus on Software Development</h3>
+<h4 align="center">A passionate Software Engineering Student with a Focus on Software Development</h3>
 
 <h3 align="center">💻Languages and Tools:</h3>
 <p align="left"> </p>
